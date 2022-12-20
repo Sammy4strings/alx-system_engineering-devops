@@ -1,2 +1,2 @@
-8-firstdelete #!/bin/bash
-rm /tmp/my_first_directory
+#!/bin/bash
+7rm /tmp/my_first_directory/betty
